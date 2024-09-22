@@ -1,0 +1,11 @@
+org\page\SearchHotel.class
+org\page\ItineraryPage.class
+org\testscript\Execution.class
+org\page\LogOutPage.class
+org\global\CommonClass.class
+org\page\ConfirmationPage.class
+org\page\SelectPage.class
+org\page\LoginPage.class
+org\manager\ProjectClassManager.class
+org\page\BookHotelPage.class
+org\global\CommonClass$1.class
